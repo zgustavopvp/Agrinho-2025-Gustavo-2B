@@ -48,8 +48,8 @@ O repositório contém a tag oficial `agrinho` conforme exigido no regulamento.
 - Produção autoral baseada em pesquisas escolares e materiais fornecidos em aula.
 
 ### Imagens e Vídeos
-- Imagens reais e tirinhas elaboradas especialmente para o concurso, com auxílio de IA e edição autoral.
-- Vídeos desenvolvidos e editados exclusivamente para o projeto, respeitando a temática proposta.
+- Imagens reais e tirinhas elaboradas especialmente para o concurso, com auxílio de IA e edição autoral. Prompt geral: representação da relação campo e cidade em imagens de pessoas e paisagens
+- Vídeos do youtube editados exclusivamente para o projeto, respeitando a temática proposta. https://www.youtube.com/watch?v=n8RcQM5MIr8
 
 ---
 
