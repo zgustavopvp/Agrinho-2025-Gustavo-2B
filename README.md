@@ -3,9 +3,9 @@
 **Projeto desenvolvido por:** Gustavo Lima Lopes  
 **Série:** 2º ano do Ensino Médio  
 **Categoria:** Programação - Subcategoria 4 (HTML e CSS)  
-**Instituição:** [Nome da sua escola aqui]  
-**NRE:** [Seu Núcleo Regional de Educação]  
-**Professor orientador:** [Nome do professor responsável]
+**Instituição:** Colégio estadual Ricardo Lunardelli
+**NRE:** Londrina  
+**Professor orientador:** Gabrieli Rizzi 
 
 ---
 
